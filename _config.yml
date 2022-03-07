@@ -1,11 +1,11 @@
-title: Jekyll Serial Programmer
+title: My Page
 markdown: kramdown
 url: ""
 baseurl: "/jekyll-theme-serial-programmer"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
+  name: yolee
   email: dev_sharad@outlook.com
 
 plugins:
