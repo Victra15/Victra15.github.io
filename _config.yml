@@ -19,6 +19,11 @@ collections:
   posts:
     output: true
 
+languages: ['ja', 'ko', 'en']
+default_lang: 'ko'
+exclude_from_localization: ['javascript', 'images', 'css']
+parallel_localization: false
+
 defaults:
   - scope:
       path: "_posts"
