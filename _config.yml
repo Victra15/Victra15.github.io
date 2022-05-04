@@ -6,7 +6,7 @@ baseurl: ""
 # for atom feed
 author:
   name: yolee
-  email: dev_sharad@outlook.com
+  email: yolee@student.42seoul.com
 
 plugins:
   - jemoji
