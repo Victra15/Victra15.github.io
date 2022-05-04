@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Jekyll Markdown
-date: 2021-11-04
+title: How to use Jekyll Markdown
+date: 2022-05-04
 categories: ["jekyll"]
 ---
 
